@@ -1,11 +1,11 @@
-# Data Science Project | The influence of Donald J Trump through tweeter on the opinion of the american public in the years
+# Data Science Project | The influence of Donald J Trump through tweeter on public opinion in the years 2009-2021
 
 ## Phase 1 - Project introduction
 
 **Submitted by:**
 
-* Einav Pincu
-* Idan Buller
+* Matan Roginsky
+* Ron Hugi
 
 ABOUT
 
